@@ -30,7 +30,7 @@
     </p>
   </article>
   <div class="section-two-image-container">
-    <img src=/assets/79dd0c5b3af03d27842017a102ef04bd.jpg" width="480" height="400" alt="Restaurant founder">
+    <img src="/assets/79dd0c5b3af03d27842017a102ef04bd.jpg" width="480" height="400" alt="Restaurant founder">
   </div>
 </div>
 
